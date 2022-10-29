@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn-images-1.medium.com/fit/t/1600/480/0*cPrF_XMe7U6atYgM.gif)]
+![MasterHead](https://cdn-images-1.medium.com/fit/t/1600/480/0*cPrF_XMe7U6atYgM.gif)
 <h1 align="center">Hi 👋, I'm Sydney Bandi</h1>
 <h3 align="center">A passionate Data Analyst from Kenya</h3>
 <img align="right" alt = "Analytics" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
