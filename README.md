@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Data Pipelines with Prefect , Docker and Github](https://github.com/sydneybandi)
 
-- 🌱 I’m currently learning **Computer Vision**
+- 🌱 I’m currently learning **Computer Vision and Deep Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sydneybandi/portfolio](https://github.com/sydneybandi/portfolio)
 
