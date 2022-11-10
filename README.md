@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/bandisydney" target="blank"><img src="https://img.shields.io/twitter/follow/bandisydney?logo=twitter&style=for-the-badge" alt="bandisydney" /></a> </p>
 
-- 🔭 I’m currently working on [Data Pipelines with Prefect , Docker and Github](https://github.com/sydneybandi)
+- 🔭 I’m currently working on [Data Pipelines with Prefect and Docker](https://github.com/sydneybandi/Data_Pipelines/tree/main/prefect-docker)
 
 - 🌱 I’m currently learning **Computer Vision and Deep Learning**
 
