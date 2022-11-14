@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **bandisydney@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/3gRTr3Q](https://bit.ly/3gRTr3Q)
+- 📄 Know about my experiences [http://bit.ly/3GcR5a6](http://bit.ly/3GcR5a6)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
