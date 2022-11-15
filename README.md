@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Computer Vision and Deep Learning**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sydneybandi/portfolio](https://github.com/sydneybandi/portfolio/tree/master#readme)
+- 👨‍💻 All of my projects are available at [https://github.com/sydneybandi/portfolio](https://github.com/sydneybandi/portfolio/blob/master/README.md)
 
 - 💬 Ask me about **R, Python ,Spark**
 
